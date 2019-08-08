@@ -37,22 +37,22 @@ dap_agency: GSA
 
 # Site Navigation
 primary_navigation:
+#  - name: Home
+#    url: /
+#  - name: Blog
+#    url: /blog/
+#  - name: Document
+#    url: /document/
+#  - name: Document with sidenav
+#    url: /document-with-sidenav/
   - name: Home
-    url: /
-  - name: Blog
-    url: /blog/
-  - name: Document
-    url: /document/
-  - name: Document with sidenav
-    url: /document-with-sidenav/
-  - name: Document submenu
     children:
-      - name: Navigation link
-        url: '#main-content'
-      - name: Navigation link
-        url: '#main-content'
-      - name: Navigation link
-        url: '#main-content'
+      - name: Hero
+        url: '#hero'
+      - name: Tagline
+        url: '#tagline'
+      - name: Highlights
+        url: '#highlights'
 
 secondary_navigation:
   - name: Just one more snazzy 10x project
