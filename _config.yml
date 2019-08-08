@@ -37,8 +37,8 @@ dap_agency: GSA
 
 # Site Navigation
 primary_navigation:
-#  - name: Home
-#    url: /
+  - name: Home
+    url: /
 #  - name: Blog
 #    url: /blog/
 #  - name: Document
@@ -48,7 +48,7 @@ primary_navigation:
   - name: Home
     children:
       - name: Hero
-        url: '#hero'
+        url: '#usa-hero'
       - name: Tagline
         url: '#tagline'
       - name: Highlights
