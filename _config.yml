@@ -55,8 +55,8 @@ primary_navigation:
         url: '#main-content'
 
 secondary_navigation:
-  - name: A 10x Project
-    url: 'https://10x.gsa.gov'
+  - name: Just one more snazzy 10x project
+    url: https://10x.gsa.gov
   - name: Another secondary link
     url: '#main-content'
 
